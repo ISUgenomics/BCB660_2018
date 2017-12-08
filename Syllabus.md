@@ -78,39 +78,39 @@ If an academic or work requirement conflicts with your religious practices and/o
 BCB 660: Introduction to NextGen Sequencing Tentative class schedule
 Spring 2018
 
-|#	|Date	 |	Day| Topic |	Homework|
+|Week	|Date	 |	Day| Topic |	Homework|
 |-|-|-|
 |1	|9-Jan|	T	|Introduction and Github/XSEDE/Slack setup/markdown| |
-|2	|11-Jan	|R	|Unix review|  |
-|3	|16-Jan	|T	|No Class	| |
-|4	|18-Jan	|R	| File formats |  	|
-|5	|23-Jan	|T	|Regular expressions | |	 
-|6	|25-Jan	|R	|Introduction & Sequencing technologies	  |  	 |
-|7	|30-Jan	|T	|QC and contamination|Regular Expressions Assignment due |
-|8	|1-Feb	|R	| Alignment |  	|
-|9	|6-Feb	|T	| Alignment work day|   QC and contamination Assignment due|
-|10	|8-Feb	|R	| RNA-Seq |Individual project plans due|
-|11	|13-Feb	|T	| RNA-Seq | Alignment Assignment due 	|
-|12	|15-Feb	|R	| RNA-Seq |	 |
-|13	|20-Feb	|T	| RNA-Seq | 	 |
-|14	|22-Feb	|R	| Project time| RNA-Seq Assignment Due	 |
-|15	|27-Feb	|T	| Project time|  |
-|16	|1-Mar	|R  | Project time| |
-|17	|6-Mar	|T	| Project Deadline 1 | 1 Project Report due for Interval 1 |
-|18	|8-Mar	|R	| Project time|  |
-|19	|13-Mar	|T	| |Spring Break	 |
-|20	|15-Mar	|R	| |Spring Break	 |
-|21	|20-Mar	|T  | Project time||
-|22	|22-Mar	|R  | Project time| 	 |
-|23	|27-Mar	|T	| Project Deadline 2| 1 Project due for Interval 2|
-|24	|29-Mar	|R	| Project time|	|
-|25	|3-Apr	|T  | Project time|	 |
-|26	|5-Apr	|R	| Project time|	|
-|27	|10-Apr	|T	| Project Deadline 3| 1 Projects due for Interval 3 |
-|28	|12-Apr	|R	| Project time||
-|29	|17-Apr	|T	| Project time | |
-|30	|19-Apr	|R	| Project time| 	 |
-|31	|24-Apr	|T	| Project Deadline 4  | 1 Projects due for Interval 4|
-|32	|26-Apr	|R	| Project time  |Final Project reports Due	Finals Week|
-|33	|1-May	|T	| |Finals Week|
-|34	|3-May	|R	| ||
+|	|11-Jan	|R	|Unix review|  |
+|2	|16-Jan	|T	|No Class	| |
+|	|18-Jan	|R	| File formats |  	|
+|3	|23-Jan	|T	|Regular expressions | |	 
+|	|25-Jan	|R	|Introduction & Sequencing technologies	  |  	 |
+|4	|30-Jan	|T	|QC and contamination|Regular Expressions Assignment due |
+|	|1-Feb	|R	| Alignment |  	|
+|5	|6-Feb	|T	| Alignment work day|   QC and contamination Assignment due|
+|	|8-Feb	|R	| RNA-Seq |Individual project plans due|
+|6	|13-Feb	|T	| RNA-Seq | Alignment Assignment due 	|
+|	|15-Feb	|R	| RNA-Seq |	 |
+|7	|20-Feb	|T	| RNA-Seq | 	 |
+| 	|22-Feb	|R	| Project time| RNA-Seq Assignment Due	 |
+|8	|27-Feb	|T	| Project time|  |
+|	|1-Mar	|R  | Project time| |
+|9	|6-Mar	|T	| Project Deadline 1 | 1 Project Report due for Interval 1 |
+|	|8-Mar	|R	| Project time|  |
+|10	|13-Mar	|T	| |Spring Break	 |
+|	|15-Mar	|R	| |Spring Break	 |
+|11	|20-Mar	|T  | Project time||
+|	|22-Mar	|R  | Project time| 	 |
+|12	|27-Mar	|T	| Project Deadline 2| 1 Project due for Interval 2|
+|	|29-Mar	|R	| Project time|	|
+|13	|3-Apr	|T  | Project time|	 |
+|	|5-Apr	|R	| Project time|	|
+|14	|10-Apr	|T	| Project Deadline 3| 1 Projects due for Interval 3 |
+|	|12-Apr	|R	| Project time||
+|15	|17-Apr	|T	| Project time | |
+| 	|19-Apr	|R	| Project time| 	 |
+|16 	|24-Apr	|T	| Project Deadline 4  | 1 Projects due for Interval 4|
+|	|26-Apr	|R	| Project time  |Final Project reports Due	Finals Week|
+|17	|1-May	|T	| |Finals Week|
+| 	|3-May	|R	| | ||
