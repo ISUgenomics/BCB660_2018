@@ -34,23 +34,27 @@ Projects 1, 2, 3 and 4 are determined by the student and can be chosen based on 
 
 |Project Type | Description| | |
 |-|-|
-|Genome assembly|Illumina| Pacbio| hybrid|
-|Genome annotation| Gene models| functional prediction|
-|SNP Calling | 90 fish exp |
-|RNA-Seq | with a genome | without a genome|
-|Metagenomics| Qiime|
-|Dex-Seq|
-|Atac-Seq|
-|ChIP-Seq|
+|**Genome assembly**|Illumina| Pacbio| hybrid|
+|**Genome annotation**| Gene models| functional prediction|
+|**SNP Calling** | 90 fish exp |
+|**RNA-Seq** | with a genome | without a genome| Comparison of Results|
+|**Metagenomics**| Qiime|
+|**Dex-Seq**|
+|**Atac-Seq**|
+|**ChIP-Seq**|
 
-|Example 1| Potential extra point assignments|
+|Example 1||
 |-|-|
 |Genome assembly Pacbio| (hybrid, illumina, comparison)|
 |Genome annotation (gene models)| (functional annotation)|
 |RNA-Seq without a Genome | (comparison to with a genome)|
 |Dex-Seq an extension to the RNA-Seq analysis| |
 
+Project plans are required for each of the four projects chosen by the students and are to be completed prior to the start of the next project time start period.  
 
+Multiple projects can be completed in each time period.  However, projects must be designated as one of the four main class projects or a bonus project prior to start and cannot be changed.  Class projects are out of 100 points as described above.  Bonus projects are out of 25 points but have a a maximum possible points of 50, meaning that 25 extra credit points could be achieved per bonus project.
+
+Additional projects can be performed during a
 
 #### Intended Learning Outcomes:
 Students are expected to gain an understanding of the importance of bioinformatic approaches in modern biological research. For each topic covered, they will understand the fundamental biological questions and be able to apply appropriate computational tools. Students will understand basic principles underlying computational approaches, realize the limitations of available tools, and be able to critically interpret results.
@@ -61,8 +65,8 @@ Assignments turned in late will receive a 10% reduction off of the total possibl
 
 #### Class projects
 
-Students are required to complete projects and assignments independently but can work together to help each other by asking questions as they need while going through the provided tutorials.  Projects will be recorded using markdown in a GitHub private repositories provided by the instructor to each student.  Projects are expected to include an **Introduction** summarizing the project goals and species, **Methods** that include each command used to generate output used in the results, **Results** describing the major findings, a **Discussion** section that describes the meaning behind several results discovered and a **Future Directions** section that describes where the student would take the project from here.
-Figures and tables should be included in the approprate sections.  The report should reflect the students understanding beyond just getting an answer.
+Students are required to complete projects and assignments independently but can work together to help each other by asking questions as needed while going through the provided tutorials.  Projects will be recorded using markdown in a GitHub private repositories provided by the instructor to each student.  Projects are expected to include an **Introduction** summarizing the project goals and species, **Methods** that include each command used to generate output used in the results, **Results** describing the major findings, a **Discussion** section that describes the meaning behind several results discovered and a **Future Directions** section that describes where the student would take the project from here.
+Figures and tables should be included in the appropriate sections.  The report should reflect the students understanding beyond just getting an answer.
 
 #### Students with Disabilities:
 If you have a disability and require accommodations, please contact one of the instructors early in the semester so that your learning needs may be appropriately met. You will need to provide documentation of your disability to the Disability Resources (DR) office, located on the main floor of the Student Services Building, Room 1076, 515-294-6624.
@@ -85,27 +89,27 @@ Spring 2018
 |2	|16-Jan	|T	|No Class	| |
 |	|18-Jan	|R	| File formats |  	|
 |3	|23-Jan	|T	|Regular expressions | |	 
-|	|25-Jan	|R	|Introduction & Sequencing technologies	  |  	 |
-|4	|30-Jan	|T	|QC and contamination|Regular Expressions Assignment due |
+|	|25-Jan	|R	|Introduction & Sequencing Technologies	  |  	 |
+|4	|30-Jan	|T	|QC and Contamination|Regular Expressions Assignment due |
 |	|1-Feb	|R	| Alignment |  	|
 |5	|6-Feb	|T	| Alignment work day|   QC and contamination Assignment due|
-|	|8-Feb	|R	| RNA-Seq |Individual project plans due|
+|	|8-Feb	|R	| RNA-Seq |Individual project plan 1 due|
 |6	|13-Feb	|T	| RNA-Seq | Alignment Assignment due 	|
 |	|15-Feb	|R	| RNA-Seq |	 |
 |7	|20-Feb	|T	| RNA-Seq | 	 |
 | 	|22-Feb	|R	| Project time| RNA-Seq Assignment Due	 |
 |8	|27-Feb	|T	| Project time|  |
-|	|1-Mar	|R  | Project time| |
+|	|1-Mar	|R  | Project time| Individual project plan 2 due|
 |9	|6-Mar	|T	| Project Deadline 1 | 1 Project Report due for Interval 1 |
 |	|8-Mar	|R	| Project time|  |
 |10	|13-Mar	|T	| |Spring Break	 |
 |	|15-Mar	|R	| |Spring Break	 |
 |11	|20-Mar	|T  | Project time||
-|	|22-Mar	|R  | Project time| 	 |
+|	|22-Mar	|R  | Project time|Individual project plan 3 due |
 |12	|27-Mar	|T	| Project Deadline 2| 1 Project due for Interval 2|
 |	|29-Mar	|R	| Project time|	|
 |13	|3-Apr	|T  | Project time|	 |
-|	|5-Apr	|R	| Project time|	|
+|	|5-Apr	|R	| Project time|Individual project plan 4 due	|
 |14	|10-Apr	|T	| Project Deadline 3| 1 Projects due for Interval 3 |
 |	|12-Apr	|R	| Project time||
 |15	|17-Apr	|T	| Project time | |
