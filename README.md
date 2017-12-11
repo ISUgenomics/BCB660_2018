@@ -26,11 +26,14 @@ Overview of next-generation sequencing data analysis including hands-on practice
 ## Syllabus
 The syllabus can be found [here](Syllabus.md)
 
+* [test](Week_01/test.html)
+* [testing](Week_01/testing.html)
+
 ## [Week 1](Week_01)
 * Lecture 1: introduction
   * Github
   * Slack (join team isugif_classes)
-    * [Introduction to Slack](https://github.com/ISUgenomics/bioinformatics-workbook/blob/master/Appendix/slack.md)
+    * [Introduction to Slack](https://github.com/ISUgenomics/bioinformatics-workbook/blob/Andrew6/Appendix/slack.md)
   * XSEDE
 * Lecture 2: Unix review
 
