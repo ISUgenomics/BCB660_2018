@@ -26,7 +26,7 @@ Overview of next-generation sequencing data analysis including hands-on practice
 ## Syllabus
 The syllabus can be found [here](Syllabus.md)
 
-## [Week 1](\Week_01)
+## [Week 1](Week_01)
 * Lecture 1: introduction
   * Github
   * Slack (join team isugif_classes)
