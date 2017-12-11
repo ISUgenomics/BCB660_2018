@@ -81,13 +81,20 @@
       }
     </style>
   </head>
+
+  <script src="bower_components/webcomponentsjs/webcomponents-lite.js"></script>
+<link rel="import" href="bower_components/zero-md/zero-md.html">
+<link rel="stylesheet" href="bower_components/zero-md/highlight-themes/default.css">
+<link rel="stylesheet" href="bower_components/zero-md/markdown-themes/default.css">
   <body>
     <textarea id="source">
 
 ---
-
-        <div><p><?php include('https://github.com/ISUgenomics/bioinformatics-workbook/blob/Andrew6/Appendix/github/github.md'); ?></p></div>
-
+<zero-md file="https://github.com/ISUgenomics/bioinformatics-workbook/blob/Andrew6/Appendix/github/github.md">
+ <!-- Remember to pass in empty container of class="md-html". -->
+ <div class="md-html"></div>
+</zero-md>
+      
 
 ---
 
