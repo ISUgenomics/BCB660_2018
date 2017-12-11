@@ -20,7 +20,7 @@ Overview of next-generation sequencing data analysis including hands-on practice
 ## Software and Accounts requirements
 1. [GiHub account](www.github.com)
 2. [Atom](https://atom.io/) for GitHub version Control
-3. [Slack](https://slack.com/get-started) In class chat program (team = isugif_classes)
+3. [Slack](https://slack.com/get-started) In class chat program (Team = isugif_classes)
 4. [XSEDE](https://portal.xsede.org/?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&saveLastPath=0&_58_struts_action=%2Flogin%2Fcreate_account) Account to use supercomputing .
 
 ## Syllabus
