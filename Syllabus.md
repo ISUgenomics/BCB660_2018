@@ -24,11 +24,11 @@ Graduate students interested in gaining experience in high-throughput sequencing
 |-|-|
 |20| Slack, XSEDE, Github Assignment|
 |20| Regular expressions Assignment|
-|10| Project plan |
+|40| Project plans |
 |20|Alignment project|   
 |100|RNA-Seq project|  
 |400|Projects 1-4 (100 points each)|  
-|570 |Total|   
+|600 |Total|   
 
 Projects 1, 2, 3 and 4 are determined by the student and can be chosen based on their interests.  The following topics are currently available to choose from:
 
@@ -54,11 +54,8 @@ Project plans are required for each of the four projects chosen by the students 
 
 Multiple projects can be completed in each time period.  However, projects must be designated as one of the four main class projects or a bonus project prior to start and cannot be changed.  Class projects are out of 100 points as described above.  Bonus projects are out of 25 points but have a a maximum possible points of 50, meaning that 25 extra credit points could be achieved per bonus project.
 
-Additional projects can be performed during a
-
 #### Intended Learning Outcomes:
 Students are expected to gain an understanding of the importance of bioinformatic approaches in modern biological research. For each topic covered, they will understand the fundamental biological questions and be able to apply appropriate computational tools. Students will understand basic principles underlying computational approaches, realize the limitations of available tools, and be able to critically interpret results.
-
 
 #### Late assignments  
 Assignments turned in late will receive a 10% reduction off of the total possible points for every day it is turned in late until 10 days after the assignment is due at which time no points will be given even if the assignment is turned in late.
@@ -77,7 +74,7 @@ Iowa State University strives to maintain our campus as a place of work and stud
 #### Religious Accommodation
 If an academic or work requirement conflicts with your religious practices and/or observances, you may request reasonable accommodations. Your request must be in writing, and your instructor or supervisor will review the request. You or your instructor may also seek assistance from the Dean of Students Office or the Office of Equal Opportunity and Compliance.
 
-
+After Week 7, course topics will depend on the majority interest of the class.  Projects turned in by the students will be determined on individual interests based on project plans for each period.
 
 BCB 660: Introduction to NextGen Sequencing Tentative class schedule
 Spring 2018
