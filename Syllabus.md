@@ -1,13 +1,15 @@
 # BCB660 Introduction to Next-Gen Sequencing Spring 2018
 
-Overview of next-generation sequencing data analysis including hands-on practice using computational tools to solve a variety of biological problems. Topics include: Quality Control, contamination analysis, Genome assembly, alignments, genome annotation, RNASeq and SNP analysis. Students will also learn UNIX commands, shell scripts and regular expressions need to run the tools. No prior knowledge of UNIX is required. Students will be provided access to high performance computing clusters to work on the data analysis.
+Overview of next-generation sequencing data analysis including hands-on practice using computational tools to solve a variety of biological problems. Topics include: Quality Control, contamination analysis, Genome assembly, alignments, genome annotation, RNASeq, Atac-Seq, ChIP-Seq and SNP analysis. Students will be able to work at their own pace and choose topics they are most interested in learning for the majority of the course.
+
+Prerequisite for this course is EEOB546X "Computational Skills for Biological Data" Students will be provided access to high performance computing clusters to work on the data analysis.
 
 #### Course Goals:
 Provide a hands-on experience in analyzing next-gen sequencing data.
 Students will understand various sequencing technologies and how to apply appropriate tools to analyze big data.
 
 #### Intended audience:
-Graduate students interested in gaining experience in high-throughput sequencing data analyses.
+Graduate students interested in gaining experience in ​a variety of ​high-throughput sequencing data analyses​ tailored to their needs.​
 
 | | |  
 |---|---|  
