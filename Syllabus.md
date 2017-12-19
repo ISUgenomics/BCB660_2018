@@ -35,7 +35,7 @@ Graduate students interested in gaining experience in ​a variety of ​high-th
 Projects 1, 2, 3 and 4 are determined by the student and can be chosen based on their interests.  The following topics are currently available to choose from:
 
 |Project Type | Description| | |
-|-|-|
+|-|-|-|-|
 |**Genome assembly**|Illumina| Pacbio| hybrid|
 |**Genome annotation**| Gene models| functional prediction|
 |**SNP Calling** | 90 fish exp |
