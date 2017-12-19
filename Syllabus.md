@@ -82,7 +82,7 @@ BCB 660: Introduction to NextGen Sequencing Tentative class schedule
 Spring 2018
 
 |Week	|Date	 |	Day| Topic |	Homework|
-|-|-|-|-|
+|-|-|-|-|-|
 |1	|9-Jan|	T	|Introduction and Github/XSEDE/Slack setup/markdown| |
 |	|11-Jan	|R	|Unix review|  |
 |2	|16-Jan	|T	|No Class	| |
